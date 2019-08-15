@@ -57,7 +57,7 @@ import the document string into the Flutter app.
 
 ## flutter_svg
 
-The [flutter_svg](https://pub.dev/packages/flutter_svg) package provides support to use SVG drawing as assets in an app. That
+The [flutter_svg](https://pub.dev/packages/flutter_svg) package, created by Dan Field, provides support to use SVG drawing as assets in an app. That
 is probably the main usage of this package. However, it also has support for dynamically creating SVG images by creating
 a Picture widget from a string containing an SVG document. That is the capability used in the example code. 
 
