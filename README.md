@@ -2,6 +2,8 @@
 
 An example of using a parameterized SVG drawing to create an animation in Flutter.
 
+<img height="300" src="svg-example.gif" alt="example animation"/>
+
 It is possible to use the flutter_svg package to render an SVG drawing that is parameterized to vary according to an Animation. This may just be a curiosity and it may be more complicated than doing conventional Flutter animations It looks to me that if you need some interrelated shapes that are moving around in a fixed coordinate system, it may be easier than drawing rects and circles and such. It results in a more declarative approach to drawing than using code to draw objects on a canvas.
 
 ## SVG
